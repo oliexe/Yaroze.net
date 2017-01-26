@@ -1,0 +1,9 @@
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\bin\Debug\psxserial_gui.exe.config
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\bin\Debug\psxserial_gui.exe
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\bin\Debug\psxserial_gui.pdb
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\obj\Debug\psxserial_gui.csprojResolveAssemblyReference.cache
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\obj\Debug\psxserial_gui.Properties.Resources.resources
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\obj\Debug\psxserial_gui.csproj.GenerateResource.Cache
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\obj\Debug\psxserial_gui.exe
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\obj\Debug\psxserial_gui.pdb
+C:\Users\olire\documents\visual studio 2015\Projects\psxserial\psxserial_gui\obj\Debug\psxserial_gui.MainWindow.resources
