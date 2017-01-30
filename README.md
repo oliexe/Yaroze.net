@@ -15,7 +15,7 @@ Please use the "Issues" tab for **code related** issues only. If you need suppor
 ## Requirements
 
 * Latest [PSXSERIAL](http://www.psxdev.net/downloads/psxserial-014.zip) by Matt ISO burned on CD-R.
-* Playstation 1 console with Serial Port, preferabbly modchipped to run your burned PSXSERIAL disc.
+* Playstation 1 console with Serial Port, preferabbly modchipped to run your burned PSXSERIAL disc. (Burn it in good old 1-8x speed boii)
 * PSX Serial Cable -> USB. Multiple ways to make this one by yourself for cheap.
 * PC with Windows and .NET 2.0 Framework to run Yaroze.NET software.
 
