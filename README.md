@@ -1,7 +1,9 @@
 # Yaroze.NET
-![Yaroze system](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Net-Yaroze-Full-Sdk.jpg/300px-Net-Yaroze-Full-Sdk.jpg)
+![Yaroze system](https://cloud.githubusercontent.com/assets/441290/22619563/325d6db0-eaf7-11e6-803e-6f9022187b8e.jpgg)
 
-A modern open-source .NET implementation of deployment tools for PlayStation 1. In a nutshell - tool that can deploy any Playstation 1 Executable to Playstation RAM from modern computer and run it on OG hardware.
+A modern open-source .NET implementation of deployment tools for PlayStation 1. 
+In a nutshell - tool that can deploy any Playstation 1 Executable to Playstation RAM from modern computer and run it on OG hardware.
+Also includes a Playstation side of things based on works of Jihad from Hitmen.
 
 ## Based on work by:
 
