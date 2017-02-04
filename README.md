@@ -1,5 +1,5 @@
 # Yaroze.NET
-<img src="https://cloud.githubusercontent.com/assets/441290/22619563/325d6db0-eaf7-11e6-803e-6f9022187b8e.jpg" width="320" width="480">
+<img src="https://cloud.githubusercontent.com/assets/441290/22619563/325d6db0-eaf7-11e6-803e-6f9022187b8e.jpg" width="640" width="480">
 
 A open-source implementation of deployment tools for PlayStation 1 in .NET and with GUI. 
 In a nutshell - tool that can deploy any Playstation 1 Executable to Playstation RAM from modern computer and run it on OG hardware.
